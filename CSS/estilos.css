@@ -5,4 +5,5 @@ p, h1, h2{
 #perros, #gatos{
     height: 200px;
     width: 300px;
+    align-content: center;
 }
