@@ -3,13 +3,19 @@ p, h1, h2{
 }
 
 #dogs{
-    
+    padding-left: 100px;
+    float: left;
     height: 200px;
     width: 300px;
+    clear: both;
 }
 
 li{
-    float: right;
-    padding-right: 1100px;
-    padding-top: 75px;
+    padding-top: 100px;
+}
+
+footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
 }
