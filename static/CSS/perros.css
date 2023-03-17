@@ -3,6 +3,13 @@ p, h1, h2{
 }
 
 #dogs{
+    
     height: 200px;
     width: 300px;
+}
+
+li{
+    float: right;
+    padding-right: 400px;
+    padding-top: 75px;
 }
