@@ -2,12 +2,7 @@ p, h1, h2{
     text-align: center;
 }
 
-#perros{
-    height: 200px;
-    width: 300px;
-}
-
-#gatos{
+#perros, #gatos{
     height: 200px;
     width: 300px;
 }
