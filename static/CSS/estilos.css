@@ -5,8 +5,26 @@ p, h1, h2{
 #imagen_index{
     height: 200px;
     width: 300px;
+    padding-left: 10%;
+    
+}
+
+div{
+    float: left;
+    clear: left;
+}
+
+#linkperro{
+    padding: 15%;
+    margin-left: 10%;
 }
 
 ul{
-    text-align: center;
+    margin-left: 41%;
+}
+
+footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
 }

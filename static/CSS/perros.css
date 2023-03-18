@@ -3,15 +3,21 @@ p, h1, h2{
 }
 
 #dogs{
-    padding-left: 100px;
+    padding-left: 5%;
     float: left;
     height: 200px;
     width: 300px;
-    clear: both;
+    clear: left;
 }
 
-li{
-    padding-top: 100px;
+ ul{
+    float: right;
+    margin-right: 50%;
+    
+    
+}
+ul li{
+    padding-top: 85%;
 }
 
 footer{
