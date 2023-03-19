@@ -4,7 +4,12 @@
     border: black 1px solid;
 }
 
-section, p{
+section{
     position: relative;
     left: 200px;
+}
+
+p{
+    position: relative;
+    right: 200px;  
 }
