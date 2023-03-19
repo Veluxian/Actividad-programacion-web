@@ -9,3 +9,8 @@ li{
 }
 
 
+p{
+    position: relative;
+    top: auto;
+    left: 40%;
+}
