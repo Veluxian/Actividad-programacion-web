@@ -2,11 +2,13 @@
     height: 200px;
     width: 300px;
     border: black 1px solid;
-    float: left;
-    position: relative;
-    left: 200px;
 }
 
 h4{
     vertical-align: middle;
+}
+
+.gatos{
+    position: relative;
+    left: 200px;
 }
