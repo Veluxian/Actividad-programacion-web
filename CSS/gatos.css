@@ -3,3 +3,7 @@
     width: 300px;
     border: black 1px solid;
 }
+
+h1, h2, p{
+    text-align: center;
+}
