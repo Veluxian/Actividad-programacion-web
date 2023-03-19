@@ -1,0 +1,16 @@
+li{
+    text-align: right;
+}
+
+#adopta{
+    height: 400px;
+    width: 500px;
+    border: black 1px solid;
+}
+
+
+p{
+    position: relative;
+    top: auto;
+    left: 40%;
+}
