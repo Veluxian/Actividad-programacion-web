@@ -2,8 +2,7 @@
     height: 200px;
     width: 300px;
     border: black 1px solid;
-    position: relative;
-    left: 200px;
+    float: left;
 }
 
 h4{
