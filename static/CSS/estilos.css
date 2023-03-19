@@ -2,3 +2,8 @@
     width: 300px;
     height: 220px;
 }
+
+
+p, h1, h2{
+    text-align: center;
+}

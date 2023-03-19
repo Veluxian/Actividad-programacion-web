@@ -7,3 +7,7 @@ table{
     width: 400px;
     height: 325px;
 }
+
+li{
+    text-align: right;
+}
