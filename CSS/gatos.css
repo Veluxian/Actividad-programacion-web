@@ -1,3 +1,8 @@
+#michis{
+    height: 200px;
+    width: 300px;
+    border: black 1px solid;
+}
 
 h4{
     vertical-align: middle;
@@ -6,7 +11,4 @@ h4{
 .gatos{
     position: relative;
     left: 200px;
-    height: 200px;
-    width: 300px;
-    border: black 1px solid;
 }
