@@ -1,10 +1,10 @@
 #michis{
     height: 200px;
     width: 300px;
-    border: black;
-    margin: auto;
+    border: black 1px solid;
 }
 
 section{
-    text-align: center;
+    position: relative;
+    left: 20px;
 }
