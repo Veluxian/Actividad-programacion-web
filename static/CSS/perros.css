@@ -1,27 +1,4 @@
-p, h1, h2{
-    text-align: center;
-}
-
 #dogs{
-    padding-left: 5%;
-    float: left;
-    height: 200px;
     width: 300px;
-    clear: left;
-}
-
- ul{
-    float: right;
-    margin-right: 50%;
-    
-    
-}
-ul li{
-    padding-top: 85%;
-}
-
-footer{
-    position: absolute;
-    bottom: 0;
-    width: 100%;
+    height: 225px;
 }
