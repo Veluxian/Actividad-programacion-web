@@ -10,5 +10,5 @@ section{
 }
 
 h4{
-    float: right;
+    vertical-align: right;
 }
